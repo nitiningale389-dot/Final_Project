@@ -561,15 +561,11 @@ Analytical reporting
 
 Referential integrity
 
-👨‍💻 Author
 
-Your Name
 
-GitHub: @your-username
 
 📄 License
 
-This project is distributed under the MIT License.
 
 You are free to use, modify, and distribute the project according to the terms of the license.
 
